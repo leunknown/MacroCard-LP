@@ -20,4 +20,4 @@ A credit card sized PCB made for an 8 Key Macropad powered by a Raspberry Pi Pic
 3. Put the Female header pins onto the pico pins, align it with the back of the PCB (where there is an image of a person and solder the Female headers in place.
 4. To code the Pico, pick a programming language to use and code!
 
-I will provide example code for CircuitPython.
+
