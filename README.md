@@ -1,5 +1,5 @@
 # MacroCard-LP
-A credit card sized PCB made for an 8 Key Macropad powered by a Raspberry Pi Pico
+A simple credit card sized PCB made for an 8 Key Macropad powered by a Raspberry Pi Pico
 
 # Parts Needed:
 - 8x Kailh Low Profile Choc Switches (any Low Profile Choc switch you desire)
