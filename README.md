@@ -22,5 +22,5 @@ A simple credit card sized PCB made for an 8 Key Macropad powered by a Raspberry
 4. To code the Pico, pick a programming language to use and code!
 
 
-#MISC
+# MISC
 - I like getting parts from MKUltra as their parts are cheaper and relatively more resonable than other vendors. (unless you want to wait for a month from AliExpress)
