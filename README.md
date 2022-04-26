@@ -4,7 +4,7 @@ A simple credit card sized PCB made for an 8 Key Macropad powered by a Raspberry
 # Parts Needed:
 - 8x Kailh Low Profile Choc Switches (any Low Profile Choc switch you desire)
 - 8x Kailh Low Profile Choc Hotswap sockets
-- - 8x Kailh Low Profile Choc Keycaps (regular MX style keycaps would not work)
+- 8x Kailh Low Profile Choc Keycaps (regular MX style keycaps would not work)
 - 1x Raspberry Pi Pico
 - 2x 20 male header pins
 - 2x 20 female header pins
