@@ -21,9 +21,10 @@ A simple credit card sized PCB made for an 8 Key Macropad powered by a Raspberry
 2. Put Male headers (long side) on breadboard and afterwards put the pico on the pins and solder. We do it this way to ensure the header pins are straight.
 3. Put the Female header pins onto the pico pins, align it with the back of the PCB (where there is an image of a person and solder the Female headers in place.![IMG_8024](https://user-images.githubusercontent.com/77712523/171342058-3aeecc59-2cc4-4654-93f4-8932512c4941.jpg)
 
-4. To code the Pico, pick a programming language to use and code!
+4. Solder the rest of the SMD hotswap sockets by first tinning one pad, then placing the socket and heat up the part touching the tinned pad. Afterwards, solder the other pad. Repeat this process until all sockets are soldered on.
+5. To code the Pico, pick a programming language to use and code!
 
-##Final Product
+## Final Product
 ![IMG_7959](https://user-images.githubusercontent.com/77712523/171341813-d8d13c89-b715-4efe-856f-5eebdebda715.jpg)
 
 ## MISC
